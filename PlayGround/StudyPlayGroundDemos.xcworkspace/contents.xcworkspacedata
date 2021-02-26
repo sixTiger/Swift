@@ -2,6 +2,18 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:switch.playground">
+   </FileRef>
+   <FileRef
+      location = "group:Set.playground">
+   </FileRef>
+   <FileRef
+      location = "group:Catch.playground">
+   </FileRef>
+   <FileRef
+      location = "group:Array.playground">
+   </FileRef>
+   <FileRef
       location = "group:Closures.playground">
    </FileRef>
    <FileRef
@@ -12,8 +24,5 @@
    </FileRef>
    <FileRef
       location = "group:TypeAlias.playground">
-   </FileRef>
-   <FileRef
-      location = "group:Catch.playground">
    </FileRef>
 </Workspace>
